@@ -75,13 +75,6 @@ Multiple analytics workflows using Python, SQL, and Power BI to clean datasets, 
 
 ---
 
-# 📊 GitHub Stats
-
-![Jayant's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAYANTSHARMA3559&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JAYANTSHARMA3559&layout=compact&theme=tokyonight)
-
----
 
 # 🌐 Connect With Me
 
