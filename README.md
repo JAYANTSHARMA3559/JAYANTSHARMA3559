@@ -6,7 +6,7 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 - 🔭 Currently working as **Junior Software Engineer Intern at Biz4Solutions**
 - 🤖 Building AI-powered systems and automation pipelines
@@ -16,7 +16,7 @@
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,27 +44,27 @@
 
 ---
 
-# 🔥 Highlight Projects
+#  Highlight Projects
 
-## 🤖 AI Resume Analyzer
+##  AI Resume Analyzer
 AI-powered system that analyzes resumes against job descriptions using semantic similarity and automation pipelines. Built structured parsing workflows and matching logic to assist recruitment decision-making.
 
-## 🧠 AI-Driven Insider Threat Detection System
+##  AI-Driven Insider Threat Detection System
 Security-focused AI system designed to detect anomalous user behavior in cloud collaboration platforms by analyzing activity patterns, temporal signals, and access behaviors.
 
-## 📊 Indian E-commerce Sales Forecasting
+##  Indian E-commerce Sales Forecasting
 Time-series forecasting project using Python and Prophet to predict revenue trends and seasonal demand. Built interactive Power BI dashboards for business insights.
 
-## 🚚 Shipping Time Prediction Model
+##  Shipping Time Prediction Model
 Machine learning model built using logistics datasets to estimate delivery timelines. Implemented preprocessing, feature engineering, and regression modeling.
 
-## 😊 Mood Detection & AI Chatbot
+##  Mood Detection & AI Chatbot
 Computer vision system that detects facial emotions using CNN models and OpenCV and generates context-aware responses through an AI chatbot backend.
 
-## 🏨 Hostel Room Counselling System
+##  Hostel Room Counselling System
 React-based Single Page Application for hostel room allocation workflows with routing, dynamic UI components, and automated invoice generation.
 
-## 🔍 Semantic Resume–Job Matching System
+##  Semantic Resume–Job Matching System
 Embedding-based retrieval system using vector similarity to match resumes with job descriptions for better candidate-job alignment.
 
 ## 📑 Resume Data Processing Pipeline
@@ -76,12 +76,12 @@ Multiple analytics workflows using Python, SQL, and Power BI to clean datasets, 
 ---
 
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jayant-sharma-b1a684267)
 
-📧 Email: jayant.sharma072004@gmail.com
+ Email: jayant.sharma072004@gmail.com
 
 ---
 
-⭐ Always open to collaboration, internships, and building impactful technology.
+ Always open to collaboration, internships, and building impactful technology.
